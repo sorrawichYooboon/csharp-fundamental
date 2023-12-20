@@ -1,0 +1,15 @@
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/bin/Debug/net8.0/csharp-fundamental
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/bin/Debug/net8.0/csharp-fundamental.deps.json
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/bin/Debug/net8.0/csharp-fundamental.runtimeconfig.json
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/bin/Debug/net8.0/csharp-fundamental.dll
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/bin/Debug/net8.0/csharp-fundamental.pdb
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/obj/Debug/net8.0/csharp-fundamental.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/obj/Debug/net8.0/csharp-fundamental.AssemblyInfoInputs.cache
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/obj/Debug/net8.0/csharp-fundamental.AssemblyInfo.cs
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/obj/Debug/net8.0/csharp-fundamental.csproj.CoreCompileInputs.cache
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/obj/Debug/net8.0/csharp-fundamental.sourcelink.json
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/obj/Debug/net8.0/csharp-fundamental.dll
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/obj/Debug/net8.0/refint/csharp-fundamental.dll
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/obj/Debug/net8.0/csharp-fundamental.pdb
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/obj/Debug/net8.0/csharp-fundamental.genruntimeconfig.cache
+/Users/sorrawichyooboon/SorrawichYooboon/csharp-fundamental/obj/Debug/net8.0/ref/csharp-fundamental.dll
