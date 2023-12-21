@@ -6,7 +6,9 @@ namespace CSharpFundamental
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello C#.NET!");
+            Console.Write("Hey");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("\tBro code");
         }
     }
 }
